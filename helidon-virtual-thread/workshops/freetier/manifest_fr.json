@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Ateliers pratiques sur les threads virtuels Helidon",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Présentation",
+            "filename": "../../intro/intro_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Configurer l'environnement dans OCI",
+            "filename": "../../setup-environment/setup-environment_fr.md"
+        },
+        {
+            "title": "Exercice 1A : Configurer l'environnement dans votre ordinateur portable",
+            "filename": "../../laptop-setup/laptop-setup_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Créer et exécuter l'application",
+            "filename": "../../build-run/build-run_fr.md"
+        },
+        {
+            "title": "Laboratoire 3 : Modifier l'application pour analyser la trace de pile",
+            "filename": "../../modify-application/modify-application_fr.md"
+        },
+        {
+            "title": "Exercice 4 : MicroProfile exécuté sur des threads virtuels",
+            "filename": "../../migrate-application/migrate-application_fr.md"
+        },
+        {
+            "title": "Besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+   ]
+}
