@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "Déplacement des applications WebLogic vers OKE à l'aide de l'interface utilisateur WebLogic Kubernetes ToolKit",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Présentation",
+      "description": "Migration d'une application vers OCI avec WebLogic Kubernetes Toolkit",
+      "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Introduction",
+      "description": "Il s'agit des prérequis pour les clients utilisant des locations d'évaluation gratuite et payantes, ainsi que des comptes Toujours gratuit (le cas échéant). Le titre du laboratoire et le titre du menu Contenu (le titre ci-dessus) correspondent au laboratoire prérequis. Ce laboratoire est toujours le premier.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Préparer la configuration",
+      "description": "Comment télécharger votre pile ORM et mettre à jour les règles de sécurité pour un VCN existant",
+      "filename": "../../prepare-setup/prepare-setup_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Configuration de l'environnement",
+      "description": "Comment provisionner l'environnement d'atelier et s'y connecter",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Configurer les ressources",
+      "filename": "../../create-environment/create-environment_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Modifier un projet d'interface utilisateur WKT et créer un fichier de modèle",
+      "filename": "../../create-model/create-model_fr.md"
+    },
+    {
+      "title": "Exercice 5 : Créer une image auxiliaire et la propager dans Oracle Container Image Registry",
+      "filename": "../../create-image/create-image_fr.md"
+    },
+    {
+      "title": "Exercice 6 : Déployer l'opérateur WebLogic sur un cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-operator/deploy-operator_fr.md"
+    },
+    {
+      "title": "Exercice 7 : Déployer le domaine WebLogic sur un cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-domain/deploy-domain_fr.md"
+    },
+    {
+      "title": "Exercice 8 : Déployer le contrôleur entrant vers le cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-ingress/deploy-ingress_fr.md"
+    },
+    {
+      "title": "Exercice 9 : Tester le déploiement d'application",
+      "filename": "../../access-application/access-application_fr.md"
+    },
+    {
+      "title": "Exercice 10 : Redimensionner un cluster WebLogic (facultatif)",
+      "filename": "../../scale-cluster/scale-cluster_fr.md"
+    },
+    {
+      "title": "Exercice 11 : Effectuer une mise à niveau dans la version du serveur WebLogic (facultatif)",
+      "filename": "../../upgrade-version/upgrade-version_fr.md"
+    },
+    {
+      "title": "Besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+    }
+  ]
+}
