@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Praktische Übung zu virtuellen Helidon-Threads",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_de.md"
+        },
+        {
+            "title": "Übung 1: Umgebung in OCI einrichten",
+            "filename": "../../setup-environment/setup-environment_de.md"
+        },
+        {
+            "title": "Übung 1A: Einrichten der Umgebung in Ihrem Laptop",
+            "filename": "../../laptop-setup/laptop-setup_de.md"
+        },
+        {
+            "title": "Übung 2: Anwendung erstellen und ausführen",
+            "filename": "../../build-run/build-run_de.md"
+        },
+        {
+            "title": "Übung 3: Anwendung zur Analyse des Stacktrace ändern",
+            "filename": "../../modify-application/modify-application_de.md"
+        },
+        {
+            "title": "Übung 4: MicroProfile wird auf virtuellen Threads ausgeführt",
+            "filename": "../../migrate-application/migrate-application_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+   ]
+}
