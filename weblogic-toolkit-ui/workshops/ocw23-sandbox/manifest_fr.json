@@ -1,0 +1,62 @@
+{
+  "workshoptitle": "Déplacement d'applications WebLogic vers OKE à l'aide de l'interface utilisateur WebLogic Kubernetes ToolKit",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Présentation",
+      "description": "Migration d'une application vers OCI avec WebLogic Kubernetes Toolkit",
+      "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Démarrer",
+      "description": "Vérifier la configuration de l'instance de calcul",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Configurer les ressources",
+      "filename": "../../create-environment/create-environment_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Modifier un projet d'interface utilisateur WKT et créer un fichier de modèle",
+      "filename": "../../create-model/create-model_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Créer une image auxiliaire et la propager dans Oracle Container Image Registry",
+      "filename": "../../create-image/create-image_fr.md"
+    },
+    {
+      "title": "Exercice 5 : Déployer l'opérateur WebLogic sur un cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-operator/deploy-operator_fr.md"
+    },
+    {
+      "title": "Exercice 6 : Déployer le domaine WebLogic sur un cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-domain/deploy-domain_fr.md"
+    },
+    {
+      "title": "Atelier 7 : Déploiement du contrôleur entrant vers le cluster Kubernetes Oracle (OKE)",
+      "filename": "../../deploy-ingress/deploy-ingress_fr.md"
+    },
+    {
+      "title": "Exercice 8 : Tester le déploiement d'une application",
+      "filename": "../../access-application/access-application_fr.md"
+    },
+    {
+      "title": "Exercice 9 : Redimensionner un cluster WebLogic (facultatif)",
+      "filename": "../../scale-cluster/scale-cluster_fr.md"
+    },
+    {
+      "title": "Exercice 10 : Effectuer une mise à niveau dans la version du serveur WebLogic (facultatif)",
+      "filename": "../../upgrade-version/upgrade-version_fr.md"
+    },
+    {
+      "title": "Besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+    },
+    {
+      "title": "Oracle CloudWorld 2023 - Support",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_fr.md"
+    }
+  ]
+}
