@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Meu Primeiro Aplicativo MicroProfile com Helidon MP",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introdução",
+            "filename": "../../intro/intro_pt-BR.md"
+        },
+        {
+            "title": "Conceitos Básicos",
+            "description": "Pré-requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Gerar projeto MP do Helidon por meio do Início do Projeto",
+            "filename": "../../generate-project/generate-project_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Criar imagem nativa do aplicativo MP GraalVM do Helidon",
+            "filename": "../../create-native-image/create-native-image_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Modifique o aplicativo adicionando um Ponto Final personalizado",
+            "filename": "../../modify-application/modify-application_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Criar e Enviar imagem do docker do Aplicativo Helidon para o Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 5: Executar a Imagem do Aplicativo Helidon na Instância do Serviço Compute",
+            "filename": "../../create-compute-instance/create-compute-instance_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+          }
+   ]
+}
