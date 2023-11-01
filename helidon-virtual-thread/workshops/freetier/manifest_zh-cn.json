@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Helidon 虚拟线程动手实验",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "简介",
+            "filename": "../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "先备条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：在 OCI 中设置环境",
+            "filename": "../../setup-environment/setup-environment_zh-CN.md"
+        },
+        {
+            "title": "实验室 1A：在笔记本电脑中设置环境",
+            "filename": "../../laptop-setup/laptop-setup_zh-CN.md"
+        },
+        {
+            "title": "实验室 2：构建和运行应用程序",
+            "filename": "../../build-run/build-run_zh-CN.md"
+        },
+        {
+            "title": "实验 3：修改应用程序以分析堆栈跟踪",
+            "filename": "../../modify-application/modify-application_zh-CN.md"
+        },
+        {
+            "title": "实验 4：MicroProfile 在虚拟线程上运行",
+            "filename": "../../migrate-application/migrate-application_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        }
+   ]
+}
