@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "Der Lebenszyklus der Helidon Microservice-Anwendungsentwicklung mit dem OCI DevOps-Service",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "type": "freetier",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: Bereitstellung der Infrastruktur",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_de.md"
+        },
+        {
+            "title": "Übung 2: Helidon-MP-Anwendung generieren",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_de.md"
+        },
+        {
+            "title": "Übung 3: Logs und Metrik-Explorer untersuchen",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_de.md"
+        },
+        {
+            "title": "Übung 4: Patch-Szenario simulieren",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_de.md"
+        },
+		{
+            "title": "Übung 5: Helidon-Anwendung ändern, um Object Storage-Unterstützung hinzuzufügen",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_de.md"
+        },
+		{
+            "title": "Übung 6: OCI-Ressourcen bereinigen (optional)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_de.md"
+        },
+        {
+            "title": "Brauchen Sie Hilfe?",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        },
+        {
+            "title": "Oracle CloudWorld 2023 - Hilfe anfordern",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_de.md"
+        }
+   ]
+}
