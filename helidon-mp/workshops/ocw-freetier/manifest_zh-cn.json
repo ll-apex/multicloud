@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "我第一个使用 Helidon MP 的 MicroProfile 应用程序",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "简介",
+            "filename": "../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "先备条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：使用项目入门器生成 Helidon MP 项目",
+            "filename": "../../generate-project/generate-project_zh-CN.md"
+        },
+        {
+            "title": "实验 2：创建 Helidon MP 应用程序 GraalVM 本机映像",
+            "filename": "../../create-native-image/create-native-image_zh-CN.md"
+        },
+        {
+            "title": "练习 3：通过添加定制端点来修改应用程序",
+            "filename": "../../modify-application/modify-application_zh-CN.md"
+        },
+        {
+            "title": "实验室 4：构建 Helidon 应用 docker 映像并将其推送到 Oracle Cloud 容器注册表",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_zh-CN.md"
+        },
+        {
+            "title": "实验室 5：在计算实例上运行 Helidon 应用映像",
+            "filename": "../../create-compute-instance/create-compute-instance_zh-CN.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - 获取帮助",
+          "description": "用于接收实时帮助的常见问题和方向的解决方案",
+          "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_zh-CN.md"
+        }
+   ]
+}
