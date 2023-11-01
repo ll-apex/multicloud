@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "ワークショップのタイトルはマニフェストで定義されます",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "はじめに LiveLabsの場合は常に2番目です。概要のタイトルとコンテンツ・メニューのタイトルが一致します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップの開始",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: インスタンスのプロビジョニング",
+      "description": "導入に続くラボには、演習1から番号が付けられます。",
+      "filename": "../../provision/provision_ja.md"
+    },
+    {
+      "title": "演習2: 環境の設定",
+      "filename": "../../setup/setup_ja.md"
+    },
+    {
+      "title": "演習3: インスタンスへのデータのロード",
+      "filename": "../../data-load/data-load_ja.md"
+    },
+    {
+      "title": "演習4: データの問合せ",
+      "filename": "../../query/query_ja.md"
+    },
+    {
+        "title": "演習5: LiveLabsの表",
+        "filename": "../../tables/tables_ja.md"
+    },
+    {
+            "title": "演習6: LiveLabs内の変数",
+            "filename": "../../variables/variables_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
