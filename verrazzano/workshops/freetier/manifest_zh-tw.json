@@ -1,0 +1,65 @@
+{
+    "workshoptitle": "Oracle Verrazzano 基礎",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "type": "freetier",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：在 Oracle Cloud Infrastructure 上設定 Oracle Kubernetes 引擎執行處理",
+            "type": "freetier",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：安裝 Verrazzano",
+            "type": "freetier",
+            "filename": "../../install-verrazzano/install-verrazzano_zh-TW.md"
+        },
+        {
+            "title": "Lab 3：部署 Bobby 的 Books 範例應用程式",
+            "type": "freetier",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_zh-TW.md"
+        },
+        {
+            "title": "Lab 4：存取 Bobby 的 Books 範例應用程式，探索 Verrazzano、Grafana 及 Kiali Console",
+            "type": "freetier",
+            "filename": "../../access-application/access-application_zh-TW.md"
+        },
+		{
+            "title": "實驗室 5：修改 Bobby 的工作簿應用程式並建立新的應用程式元件影像",
+            "type": "freetier",
+            "filename": "../../modify-helidonstock/modify-helidonstock_zh-TW.md"
+        },
+		{
+            "title": "實驗室 6：將 bobbys-helidon-stock-application 的 Docker 映像檔推送至 Oracle Cloud Container Registry",
+            "type": "freetier",
+            "filename": "../../pushing-new-image/pushing-new-image_zh-TW.md"
+        },
+		{
+            "title": "Lab 7：修改 Bobby 的書籍組態 YAML 檔案",
+            "type": "freetier",
+            "filename": "../../modify-yaml-config/modify-yaml-config_zh-TW.md"
+        },
+	    {
+            "title": "Lab 5-7：ALTERNATE VERSION 簡化解決方案",
+            "filename": "../../alternate-version/alternate-version_zh-TW.md"
+        },
+		{
+            "title": "實驗室 8：透過應用程式存取和曲線堆疊驗證變更",
+            "type": "freetier",
+            "filename": "../../verify-changes/verify-changes_zh-TW.md"
+        },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+      }
+   ]
+}
