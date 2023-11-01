@@ -1,0 +1,62 @@
+{
+  "workshoptitle": "Mova um Aplicativo WebLogic para o OKE com a UI WebLogic ToolKit do Kubernetes",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introdução",
+      "description": "Migre um Aplicativo para o OCI com o WebLogic Kubernetes Toolkit",
+      "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Configuração do Ambiente",
+      "description": "Verificar Configuração da instância de computação",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Configurar o Ambiente de Laboratório",
+      "filename": "../../create-environment/create-environment_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Modificar um Projeto da UI WKT e Criar um arquivo de Modelo",
+      "filename": "../../create-model/create-model_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 4: Criar uma Imagem Auxiliar e Disponibilizá-la no Oracle Container Image Registry",
+      "filename": "../../create-image/create-image_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 5: Implantar o Operador WebLogic no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-operator/deploy-operator_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 6: Implantar Domínio WebLogic no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-domain/deploy-domain_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 7: Implantar o Controlador de Entrada no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-ingress/deploy-ingress_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 8: Testar a Implantação do Aplicativo",
+      "filename": "../../access-application/access-application_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 9: Dimensionar um Cluster WebLogic (Opcional)",
+      "filename": "../../scale-cluster/scale-cluster_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 10: Faça uma atualização na Versão do Servidor WebLogic (Opcional)",
+      "filename": "../../upgrade-version/upgrade-version_pt-BR.md"
+    },
+    {
+      "title": "Precisa de Ajuda?",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+    },
+    {
+      "title": "Oracle CloudWorld 2023 - Suporte",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_pt-BR.md"
+    }
+  ]
+}
