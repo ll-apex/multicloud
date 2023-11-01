@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Oracle Verrazzanoの基礎",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "スタート・ガイド",
+            "description": "LiveLabs (Oracle所有テナンシ)の前提条件。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_ja.md"
+        },
+        {
+            "title": "概要",
+            "type": "livelabs",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "演習1: Oracle Cloud Infrastructure上のOracle Kubernetes EngineインスタンスにアクセスするためのKubectlの構成",
+            "filename": "../../configure-oke-ocishell/configure-oke-ocishell_ja.md"
+        },
+        {
+            "title": "演習2: Verrazzanoのインストール",
+            "type": "livelabs",
+            "filename": "../../install-verrazzano/install-verrazzano_ja.md"
+        },
+        {
+            "title": "演習3: Bobby's Booksサンプル・アプリケーションのデプロイ",
+            "type": "livelabs",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_ja.md"
+        },
+        {
+            "title": "演習4: Bobby's Booksサンプル・アプリケーションへのアクセス Verrazzano、GrafanaおよびKiali Consoleの探索",
+            "type": "livelabs",
+            "filename": "../../access-application/access-application_ja.md"
+        },
+		{
+            "title": "演習5: アプリケーション・コンポーネントの変更と新規イメージの作成",
+            "type": "livelabs",
+            "filename": "../../modify-helidonstock/modify-helidonstock_ja.md"
+        },
+		{
+            "title": "演習6: Oracle Cloud Container Registryでの新しいコンポーネント・イメージのプッシュ",
+            "type": "livelabs",
+            "filename": "../../pushing-new-image/pushing-new-image_ja.md"
+        },
+		{
+            "title": "演習7: 変更したコンポーネントを再デプロイするためのアプリケーション構成ファイルの変更",
+            "type": "livelabs",
+            "filename": "../../modify-yaml-config/modify-yaml-config_ja.md"
+        },
+	    {
+            "title": "演習5-7: 簡素化されたソリューションによるバージョンの変更",
+            "filename": "../../alternate-version/alternate-version_ja.md"
+        },
+		{
+            "title": "演習8: アプリケーション・アクセスとキュレートされたスタックによる変更の確認",
+            "type": "livelabs",
+            "filename": "../../verify-changes/verify-changes_ja.md"
+        },
+      {
+        "title": "サポートが必要ですか。",
+        "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+      }
+   ]
+}
