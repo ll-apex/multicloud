@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Helidon 虛擬執行緒實際操作實驗室",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：在 OCI 中設定環境",
+            "filename": "../../setup-environment/setup-environment_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1A：在筆記型電腦中設定環境",
+            "filename": "../../laptop-setup/laptop-setup_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：建立及執行應用程式",
+            "filename": "../../build-run/build-run_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：修改應用程式以分析堆疊追蹤",
+            "filename": "../../modify-application/modify-application_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：MicroProfile 在虛擬執行緒上執行",
+            "filename": "../../migrate-application/migrate-application_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+   ]
+}
