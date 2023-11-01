@@ -1,0 +1,65 @@
+{
+    "workshoptitle": "Principes fondamentaux d'Oracle Verrazzano",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Présentation",
+            "type": "freetier",
+            "filename": "../../intro/intro_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Atelier 1 : configuration d'une instance Oracle Kubernetes Engine sur Oracle Cloud Infrastructure",
+            "type": "freetier",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Installer Verrazzano",
+            "type": "freetier",
+            "filename": "../../install-verrazzano/install-verrazzano_fr.md"
+        },
+        {
+            "title": "Laboratoire 3 : Déployer l'exemple d'application Livres de Bobby",
+            "type": "freetier",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_fr.md"
+        },
+        {
+            "title": "Lab 4 : Accéder à l'exemple d'application Bobby's Books Explorer Verrazzano, Grafana et la console Kiali",
+            "type": "freetier",
+            "filename": "../../access-application/access-application_fr.md"
+        },
+		{
+            "title": "Exercice 5 : Modifier l'application Livre de Bobby et créer une image de composant d'application",
+            "type": "freetier",
+            "filename": "../../modify-helidonstock/modify-helidonstock_fr.md"
+        },
+		{
+            "title": "Atelier 6 : Transmission de l'image Docker de l'application bobbys-helidon-stock à Oracle Cloud Container Registry",
+            "type": "freetier",
+            "filename": "../../pushing-new-image/pushing-new-image_fr.md"
+        },
+		{
+            "title": "Exercice 7 : Modifier le fichier YAML de configuration des livres de Bobby",
+            "type": "freetier",
+            "filename": "../../modify-yaml-config/modify-yaml-config_fr.md"
+        },
+	    {
+            "title": "Laboratoire 5-7 : VERSION ALTERNE avec solution simplifiée",
+            "filename": "../../alternate-version/alternate-version_fr.md"
+        },
+		{
+            "title": "Exercice 8 : Vérifier les modifications via l'accès à l'application et la pile organisée",
+            "type": "freetier",
+            "filename": "../../verify-changes/verify-changes_fr.md"
+        },
+      {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+      }
+   ]
+}
