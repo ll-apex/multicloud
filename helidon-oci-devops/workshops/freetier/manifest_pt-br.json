@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "O Ciclo de Vida do Desenvolvimento de Aplicativos de Microsserviços do Helidon com o serviço OCI DevOps",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introdução",
+            "type": "freetier",
+            "filename": "../../intro/intro_pt-BR.md"
+        },
+        {
+            "title": "Conceitos Básicos",
+            "description": "Pré-requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Provisionar a Infraestrutura",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Gerar aplicativo Helidon MP",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Explore logs e explorador de métricas",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Simular um cenário de patch",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 5: Modificar o aplicativo Helidon para integração do Object Storage",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 6: Limpar os Recursos do OCI (Opcional)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_pt-BR.md"
+        },
+      {
+        "title": "Precisa de Ajuda?",
+        "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+      }
+   ]
+}
