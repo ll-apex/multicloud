@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "Implante o Aplicativo WebLogic em WebLogic para o OKE por meio da interface de usuário do Kit de Ferramentas do Kubernetes WebLogic",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introdução",
+      "description": "Migre um Aplicativo para o OCI com o WebLogic Kubernetes Toolkit",
+      "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Conceitos Básicos",
+      "description": "Este é o pré-requisito para clientes que usam tenancies de Avaliação Gratuita e Pagas e contas Always Free (se aplicável). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Preparar Configuração",
+      "description": "Como fazer download da pilha do ORM e atualizar regras de segurança para uma VCN existente",
+      "filename": "../../prepare-setup/prepare-setup_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Configuração do Ambiente",
+      "description": "Como provisionar o ambiente do workshop e estabelecer conexão com ele",
+      "filename": "../../remote-desktop/remote-desktop_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Configurar os recursos",
+      "filename": "../../create-environment/create-environment_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 4: Modificar um Projeto de UI WKT e a Criação do arquivo de Modelo",
+      "filename": "../../create-model/create-model_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 5: Criação de Imagem Auxiliar e Disponibilizá-la no Oracle Container Image Registry",
+      "filename": "../../create-image/create-image_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 6: Implantar o Operador WebLogic no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-operator/deploy-operator_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 7: Implantar Domínio WebLogic no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-domain/deploy-domain_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 8: Implantar o Controlador de Entrada no Cluster do Oracle Kubernetes (OKE)",
+      "filename": "../../deploy-ingress/deploy-ingress_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 9: Testar a Implantação do Aplicativo",
+      "filename": "../../access-application/access-application_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 10: Dimensionar um Cluster WebLogic (Opcional)",
+      "filename": "../../scale-cluster/scale-cluster_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 11: Faça uma atualização na Versão do Servidor WebLogic (Opcional)",
+      "filename": "../../upgrade-version/upgrade-version_pt-BR.md"
+    },
+    {
+      "title": "Precisa de Ajuda?",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+    }
+  ]
+}
