@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Principes fondamentaux d'Oracle Verrazzano",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations appartenant à Oracle). Le titre du laboratoire et le titre du menu Contenu (le titre ci-dessus) correspondent au laboratoire prérequis. Ce laboratoire est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_fr.md"
+        },
+        {
+            "title": "Présentation",
+            "type": "livelabs",
+            "filename": "../../intro/intro_fr.md"
+        },
+        {
+            "title": "Atelier 1 : configuration de Kubectl pour accéder à une instance Oracle Kubernetes Engine sur Oracle Cloud Infrastructure",
+            "filename": "../../configure-oke-ocishell/configure-oke-ocishell_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Installer Verrazzano",
+            "type": "livelabs",
+            "filename": "../../install-verrazzano/install-verrazzano_fr.md"
+        },
+        {
+            "title": "Laboratoire 3 : Déployer l'exemple d'application Livres de Bobby",
+            "type": "livelabs",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_fr.md"
+        },
+        {
+            "title": "Lab 4 : Accéder à l'exemple d'application Bobby's Books Explorer Verrazzano, Grafana et la console Kiali",
+            "type": "livelabs",
+            "filename": "../../access-application/access-application_fr.md"
+        },
+		{
+            "title": "Exercice 5 : Modifier le composant Application et créer une nouvelle image",
+            "type": "livelabs",
+            "filename": "../../modify-helidonstock/modify-helidonstock_fr.md"
+        },
+		{
+            "title": "Atelier 6 : Transmission d'une nouvelle image de composant dans Oracle Cloud Container Registry",
+            "type": "livelabs",
+            "filename": "../../pushing-new-image/pushing-new-image_fr.md"
+        },
+		{
+            "title": "Exercice 7 : Modifier le fichier de configuration de l'application pour redéployer le composant modifié",
+            "type": "livelabs",
+            "filename": "../../modify-yaml-config/modify-yaml-config_fr.md"
+        },
+	    {
+            "title": "Laboratoire 5-7 : VERSION ALTERNE avec solution simplifiée",
+            "filename": "../../alternate-version/alternate-version_fr.md"
+        },
+		{
+            "title": "Exercice 8 : Vérifier les modifications via l'accès aux applications et la pile organisée",
+            "type": "livelabs",
+            "filename": "../../verify-changes/verify-changes_fr.md"
+        },
+      {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+      }
+   ]
+}
