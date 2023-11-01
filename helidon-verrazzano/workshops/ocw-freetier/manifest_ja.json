@@ -1,0 +1,36 @@
+{
+    "workshoptitle": "Oracle Kubernetes環境とVerrazzanoによる最新のアプリケーション開発",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "filename": "../../intro-new/intro-new_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "前提条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: Oracle Cloud InfrastructureでのOracle Kubernetes Engineインスタンスの設定",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_ja.md"
+        },
+        {
+            "title": "演習2: Verrazzanoのインストール",
+            "filename": "../../install-verrazzano/install-verrazzano_ja.md"
+        },
+        {
+            "title": "演習3: VerrazzanoへのHelidonアプリケーションのデプロイ",
+            "filename": "../../deploy-app-on-verrazzano-new/deploy-app-on-verrazzano-new_ja.md"
+        },
+		    {
+            "title": "演習4: Verrazzanoを使用したアプリケーションへのアクセスおよび監視",
+            "filename": "../../access-verrazzano-new/access-verrazzano-new_ja.md"
+        },
+        {
+          "title": "サポートが必要ですか。",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+   ]
+}
