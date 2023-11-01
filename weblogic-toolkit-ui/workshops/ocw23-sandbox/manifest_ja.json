@@ -1,0 +1,62 @@
+{
+  "workshoptitle": "WebLogic Kubernetes ToolKit UIを使用したWebLogicアプリケーションのOKEへの移動",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "WebLogic Kubernetes ToolkitによるOCIへのアプリケーションの移行",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "演習1: はじめに",
+      "description": "コンピュート・インスタンスの設定の確認",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_ja.md"
+    },
+    {
+      "title": "演習2: リソースの設定",
+      "filename": "../../create-environment/create-environment_ja.md"
+    },
+    {
+      "title": "演習3: WKT UIプロジェクトの変更とモデル・ファイルの作成",
+      "filename": "../../create-model/create-model_ja.md"
+    },
+    {
+      "title": "演習4: 補助イメージの作成およびOracle Container Image Registryへのプッシュ",
+      "filename": "../../create-image/create-image_ja.md"
+    },
+    {
+      "title": "演習5: WebLogicオペレータのOracle Kubernetesクラスタへのデプロイ(OKE)",
+      "filename": "../../deploy-operator/deploy-operator_ja.md"
+    },
+    {
+      "title": "演習6: WebLogicドメインのOracle Kubernetesクラスタ(OKE)へのデプロイ",
+      "filename": "../../deploy-domain/deploy-domain_ja.md"
+    },
+    {
+      "title": "演習7: Oracle Kubernetesクラスタ(OKE)へのイングレス・コントローラのデプロイ",
+      "filename": "../../deploy-ingress/deploy-ingress_ja.md"
+    },
+    {
+      "title": "演習8: アプリケーション・デプロイメントのテスト",
+      "filename": "../../access-application/access-application_ja.md"
+    },
+    {
+      "title": "演習9: WebLogicクラスタのスケーリング(オプション)",
+      "filename": "../../scale-cluster/scale-cluster_ja.md"
+    },
+    {
+      "title": "演習10: WebLogicサーバー・バージョンでのアップグレード(オプション)",
+      "filename": "../../upgrade-version/upgrade-version_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    },
+    {
+      "title": "Oracle CloudWorld 2023 - サポート",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+    }
+  ]
+}
