@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Springboot-Anwendung mit Verrazzano in OKE bereitstellen",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Einführung",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: Oracle Kubernetes Engine-Instanz auf Oracle Cloud Infrastructure einrichten",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_de.md"
+        },
+        {
+            "title": "Übung 2: Springboot-Anwendungsimage erstellen und in Oracle Cloud Container Registry übertragen",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_de.md"
+        },
+        {
+            "title": "Übung 3: Verrazzano installieren",
+            "filename": "../../install-verrazzano/install-verrazzano_de.md"
+        },
+        {
+            "title": "Übung 4: Springboot-Anwendung auf Verrazzano bereitstellen",
+            "filename": "../../deploy-app-on-verrazzano/deploy-app-on-verrazzano_de.md"
+        },
+		    {
+            "title": "Übung 5: Mit Verrazzano auf die Anwendung zugreifen und sie überwachen",
+            "filename": "../../access-verrazzano/access-verrazzano_de.md"
+        },
+        {
+          "title": "Brauchen Sie Hilfe?",
+          "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+   ]
+}
