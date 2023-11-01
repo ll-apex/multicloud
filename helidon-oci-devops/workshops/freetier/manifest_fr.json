@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "Cycle de vie du développement d'applications de microservice Helidon avec le service OCI DevOps",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Présentation",
+            "type": "freetier",
+            "filename": "../../intro/intro_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Prérequis",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Provisionner l'infrastructure",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Générer une application Helidon MP",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Explorer les journaux et l'explorateur de mesures",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Simuler un scénario de patch",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_fr.md"
+        },
+		{
+            "title": "Exercice 5 : Modifier l'application Helidon pour l'intégration Object Storage",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_fr.md"
+        },
+		{
+            "title": "Atelier 6 : nettoyage des ressources OCI (facultatif)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_fr.md"
+        },
+      {
+        "title": "Besoin d'aide ?",
+        "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+      }
+   ]
+}
