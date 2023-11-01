@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Fundamentos do Oracle Verrazzano",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Conceitos Básicos",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "type": "livelabs",
+            "filename": "../../intro/intro_pt-BR.md"
+        },
+        {
+            "title": "Lab. 1: Configurar Kubectl para acessar uma instância do Oracle Kubernetes Engine no Oracle Cloud Infrastructure",
+            "filename": "../../configure-oke-ocishell/configure-oke-ocishell_pt-BR.md"
+        },
+        {
+            "title": "Lab. 2: Instalar Verrazzano",
+            "type": "livelabs",
+            "filename": "../../install-verrazzano/install-verrazzano_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Implantar aplicativo de amostra de Livros de Bobby",
+            "type": "livelabs",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Acesse o aplicativo de amostra do Bobby's Books Explore Verrazzano, Grafana e Kiali Console",
+            "type": "livelabs",
+            "filename": "../../access-application/access-application_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 5: Modificando o componente Aplicativo e a Criação de uma nova imagem",
+            "type": "livelabs",
+            "filename": "../../modify-helidonstock/modify-helidonstock_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 6: Enviando nova imagem de componente no Oracle Cloud Container Registry",
+            "type": "livelabs",
+            "filename": "../../pushing-new-image/pushing-new-image_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 7: Modificando o arquivo de Configuração do Aplicativo para Reimplantar o componente modificado",
+            "type": "livelabs",
+            "filename": "../../modify-yaml-config/modify-yaml-config_pt-BR.md"
+        },
+	    {
+            "title": "Laboratório 5-7: ALTERNATE VERSION com solução simplificada",
+            "filename": "../../alternate-version/alternate-version_pt-BR.md"
+        },
+		{
+            "title": "Laboratório 8: Verificando as alterações por meio do acesso ao aplicativo e da pilha Curated",
+            "type": "livelabs",
+            "filename": "../../verify-changes/verify-changes_pt-BR.md"
+        },
+      {
+        "title": "Precisa de Ajuda?",
+        "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+      }
+   ]
+}
