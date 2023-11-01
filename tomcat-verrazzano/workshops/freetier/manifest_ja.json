@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Verrazzanoを使用したOKEへのTomcatアプリケーションのデプロイ",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "事前設定",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: Oracle Cloud InfrastructureでのOracle Kubernetes Engineインスタンスの設定",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_ja.md"
+        },
+        {
+            "title": "演習2: Tomcatアプリケーション・イメージのOracle Cloud Container Registryへのビルドおよびプッシュ",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_ja.md"
+        },
+        {
+            "title": "演習3: Verrazzanoのインストール",
+            "filename": "../../install-verrazzano/install-verrazzano_ja.md"
+        },
+        {
+            "title": "演習4: TomcatアプリケーションのVerrazzanoへのデプロイ",
+            "filename": "../../deploy-app-on-verrazzano/deploy-app-on-verrazzano_ja.md"
+        },
+		    {
+            "title": "演習5: Verrazzanoを使用したアプリケーションへのアクセスおよび監視",
+            "filename": "../../access-verrazzano/access-verrazzano_ja.md"
+        },
+        {
+          "title": "サポートが必要ですか。",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+   ]
+}
