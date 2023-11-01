@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Oracle Verrazzano 基礎",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "開始使用",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "type": "livelabs",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：設定 Kubectl 以存取 Oracle Cloud Infrastructure 上的 Oracle Kubernetes Engine 執行處理",
+            "filename": "../../configure-oke-ocishell/configure-oke-ocishell_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：安裝 Verrazzano",
+            "type": "livelabs",
+            "filename": "../../install-verrazzano/install-verrazzano_zh-TW.md"
+        },
+        {
+            "title": "Lab 3：部署 Bobby 的 Books 範例應用程式",
+            "type": "livelabs",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_zh-TW.md"
+        },
+        {
+            "title": "Lab 4：存取 Bobby 的 Books 範例應用程式，探索 Verrazzano、Grafana 及 Kiali Console",
+            "type": "livelabs",
+            "filename": "../../access-application/access-application_zh-TW.md"
+        },
+		{
+            "title": "實驗室 5：修改應用程式元件和建立新映像檔",
+            "type": "livelabs",
+            "filename": "../../modify-helidonstock/modify-helidonstock_zh-TW.md"
+        },
+		{
+            "title": "實驗室 6：在 Oracle Cloud Container Registry 中推送新元件映像檔",
+            "type": "livelabs",
+            "filename": "../../pushing-new-image/pushing-new-image_zh-TW.md"
+        },
+		{
+            "title": "實驗室 7：修改應用程式組態檔以重新部署修改的元件",
+            "type": "livelabs",
+            "filename": "../../modify-yaml-config/modify-yaml-config_zh-TW.md"
+        },
+	    {
+            "title": "Lab 5-7：ALTERNATE VERSION 簡化解決方案",
+            "filename": "../../alternate-version/alternate-version_zh-TW.md"
+        },
+		{
+            "title": "實驗室 8：透過應用程式存取和曲線堆疊驗證變更",
+            "type": "livelabs",
+            "filename": "../../verify-changes/verify-changes_zh-TW.md"
+        },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+      }
+   ]
+}
