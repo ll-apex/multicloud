@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Helidon仮想スレッドのハンズオン・ラボ",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "前提条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "演習1: OCIでの環境の設定",
+            "filename": "../../setup-environment/setup-environment_ja.md"
+        },
+        {
+            "title": "演習1A: ラップトップでの環境の設定",
+            "filename": "../../laptop-setup/laptop-setup_ja.md"
+        },
+        {
+            "title": "演習2: アプリケーションの構築および実行",
+            "filename": "../../build-run/build-run_ja.md"
+        },
+        {
+            "title": "演習3: アプリケーションを変更してスタック・トレースを分析します。",
+            "filename": "../../modify-application/modify-application_ja.md"
+        },
+        {
+            "title": "演習4: 仮想スレッドで実行するMicroProfile",
+            "filename": "../../migrate-application/migrate-application_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+   ]
+}
