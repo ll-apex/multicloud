@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "OCI DevOps 서비스를 사용한 Helidon Microservice Application Development의 수명 주기",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "소개",
+            "type": "freetier",
+            "filename": "../../intro/intro_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "필요 조건",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+        },
+        {
+            "title": "실습 1: 인프라 프로비저닝",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_ko.md"
+        },
+        {
+            "title": "실습 2: Helidon MP 애플리케이션 생성",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_ko.md"
+        },
+        {
+            "title": "실습 3: 로그 및 측정항목 탐색기 탐색",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_ko.md"
+        },
+        {
+            "title": "실습 4: 패치 시나리오 시뮬레이트",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_ko.md"
+        },
+		{
+            "title": "실습 5: 오브젝트 스토리지 통합에 대한 Helidon 애플리케이션 수정",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_ko.md"
+        },
+		{
+            "title": "실습 6: OCI 리소스 정리(선택사항)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_ko.md"
+        },
+      {
+        "title": "도움말이 필요합니까?",
+        "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+      }
+   ]
+}
