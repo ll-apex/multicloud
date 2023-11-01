@@ -1,0 +1,44 @@
+{
+    "workshoptitle": "Helidon 和 Verrazzano 基礎",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：在 Oracle Cloud Infrastructure 上設定 Oracle Kubernetes 引擎執行處理",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：開發 Helidon 應用程式",
+            "filename": "../../develop-application/develop-application_zh-TW.md"
+        },
+        {
+            "title": "Lab 3：安裝 Verrazzano",
+            "filename": "../../install-verrazzano/install-verrazzano_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：將 Helidon 應用程式映像檔推送到 Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：在 Verrazzano 上部署 Helidon 應用程式",
+            "filename": "../../deploy-app-on-verrazzano/deploy-app-on-verrazzano_zh-TW.md"
+        },
+		    {
+            "title": "實驗室 6：使用 Verrazzano 存取及監控應用程式",
+            "filename": "../../access-verrazzano/access-verrazzano_zh-TW.md"
+        },
+        {
+          "title": "需要協助嗎？",
+          "description": "接收即時說明常見問題的解決方案和指示",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+   ]
+}
