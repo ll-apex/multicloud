@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Laboratorio práctico de threads virtuales de Helidon",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Configuración del entorno en OCI",
+            "filename": "../../setup-environment/setup-environment_es.md"
+        },
+        {
+            "title": "Laboratorio 1A: Configuración del entorno en el portátil",
+            "filename": "../../laptop-setup/laptop-setup_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación y ejecución de la aplicación",
+            "filename": "../../build-run/build-run_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Modificar la aplicación para analizar el rastreo de pila",
+            "filename": "../../modify-application/modify-application_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Ejecución de MicroProfile en threads virtuales",
+            "filename": "../../migrate-application/migrate-application_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+   ]
+}
