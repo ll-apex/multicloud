@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Mi primera aplicación MicroProfile con Helidon MP",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Generación de un proyecto de Helidon MP con Project Starter",
+            "filename": "../../generate-project/generate-project_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Crear la imagen nativa de la aplicación GraalVM de Helidon MP",
+            "filename": "../../create-native-image/create-native-image_es.md"
+        },
+        {
+            "title": "Práctica 3: Modificar la aplicación agregando un punto final personalizado",
+            "filename": "../../modify-application/modify-application_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Creación y transferencia de una imagen de docker de aplicación de Helidon a Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_es.md"
+        },
+        {
+            "title": "Práctica 5: Ejecución de la imagen de la aplicación Helidon en la instancia informática",
+            "filename": "../../create-compute-instance/create-compute-instance_es.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - Obtener ayuda",
+          "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+          "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_es.md"
+        }
+   ]
+}
