@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "실습 위주의 Helidon Virtual Threads",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "소개",
+            "filename": "../../intro/intro_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "필요 조건",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+        },
+        {
+            "title": "실습 1: OCI에서 환경 설정",
+            "filename": "../../setup-environment/setup-environment_ko.md"
+        },
+        {
+            "title": "실습 1A: 랩탑에 환경 설정",
+            "filename": "../../laptop-setup/laptop-setup_ko.md"
+        },
+        {
+            "title": "실습 2: 응용 프로그램 빌드 및 실행",
+            "filename": "../../build-run/build-run_ko.md"
+        },
+        {
+            "title": "실습 3: 스택 추적을 분석하도록 응용 프로그램 수정",
+            "filename": "../../modify-application/modify-application_ko.md"
+        },
+        {
+            "title": "실습 4: MicroProfile 가상 스레드에서 실행 중",
+            "filename": "../../migrate-application/migrate-application_ko.md"
+        },
+        {
+            "title": "도움말이 필요합니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+   ]
+}
