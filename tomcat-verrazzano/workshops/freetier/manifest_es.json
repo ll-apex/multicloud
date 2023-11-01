@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Despliegue de una aplicación Tomcat en OKE con Verrazzano",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../intro/intro_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Configuración de una instancia de Oracle Kubernetes Engine en Oracle Cloud Infrastructure",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Creación y transferencia de la imagen de aplicación Tomcat a Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Instalación de Verrazzano",
+            "filename": "../../install-verrazzano/install-verrazzano_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Despliegue de la aplicación Tomcat en Verrazzano",
+            "filename": "../../deploy-app-on-verrazzano/deploy-app-on-verrazzano_es.md"
+        },
+		    {
+            "title": "Laboratorio 5: Uso de Verrazzano para acceder y supervisar la aplicación",
+            "filename": "../../access-verrazzano/access-verrazzano_es.md"
+        },
+        {
+          "title": "¿Necesita Ayuda?",
+          "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+   ]
+}
