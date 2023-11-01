@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "通过 WebLogic Kubernetes 工具包 UI 将 WebLogic 应用程序部署到 OKE 的 WebLogic",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "简介",
+      "description": "使用 WebLogic Kubernetes 工具包将应用迁移到 OCI",
+      "filename": "../../introduction/introduction_zh-CN.md"
+    },
+    {
+      "title": "入门",
+      "description": "这是使用免费试用和付费租户以及“始终免费”账户（如果适用）的客户先决条件。实验室的标题与先决条件实验室的“内容菜单”标题（上面的标题）匹配。这个实验室总是第一位的。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+    },
+    {
+      "title": "练习 1：准备设置",
+      "description": "如何下载 ORM 堆栈并更新现有 VCN 的安全规则",
+      "filename": "../../prepare-setup/prepare-setup_zh-CN.md"
+    },
+    {
+      "title": "实验室 2：环境设置",
+      "description": "如何预配研习会环境并连接到该环境",
+      "filename": "../../remote-desktop/remote-desktop_zh-CN.md"
+    },
+    {
+      "title": "练习 3：设置资源",
+      "filename": "../../create-environment/create-environment_zh-CN.md"
+    },
+    {
+      "title": "实验室 4：修改 WKT UI 项目并创建模型文件",
+      "filename": "../../create-model/create-model_zh-CN.md"
+    },
+    {
+      "title": "实验室 5：创建辅助映像并将其推送到 Oracle 容器映像注册表",
+      "filename": "../../create-image/create-image_zh-CN.md"
+    },
+    {
+      "title": "实验 6：将 WebLogic 操作员部署到 Oracle Kubernetes 集群 (OKE)",
+      "filename": "../../deploy-operator/deploy-operator_zh-CN.md"
+    },
+    {
+      "title": "实验 7：将 WebLogic 域部署到 Oracle Kubernetes 集群 (OKE)",
+      "filename": "../../deploy-domain/deploy-domain_zh-CN.md"
+    },
+    {
+      "title": "实验 8：将入站控制器部署到 Oracle Kubernetes 集群 (OKE)",
+      "filename": "../../deploy-ingress/deploy-ingress_zh-CN.md"
+    },
+    {
+      "title": "实验室 9：测试应用程序部署",
+      "filename": "../../access-application/access-application_zh-CN.md"
+    },
+    {
+      "title": "练习 10：扩展 WebLogic 集群（可选）",
+      "filename": "../../scale-cluster/scale-cluster_zh-CN.md"
+    },
+    {
+      "title": "实验 11：在 WebLogic 服务器版本中进行升级（可选）",
+      "filename": "../../upgrade-version/upgrade-version_zh-CN.md"
+    },
+    {
+      "title": "需要帮助？",
+      "description": "用于接收实时帮助的常见问题和方向的解决方案",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+    }
+  ]
+}
