@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "Verschieben Sie WebLogic-Anwendungen mit der WebLogic Kubernetes ToolKit-UI in OKE",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Anwendung mit WebLogic Kubernetes Toolkit zu OCI migrieren",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Test- und kostenpflichtige Mandanten sowie Accounts vom Typ \"Immer kostenlos\" verwenden (sofern zutreffend). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "filename": "../../prepare-setup/prepare-setup_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung her",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+    },
+    {
+      "title": "Übung 3: Ressourcen einrichten",
+      "filename": "../../create-environment/create-environment_de.md"
+    },
+    {
+      "title": "Übung 4: WKT-UI-Projekt ändern und Modelldatei erstellen",
+      "filename": "../../create-model/create-model_de.md"
+    },
+    {
+      "title": "Übung 5: Auxiliary Image erstellen und in Oracle Container Image Registry übertragen",
+      "filename": "../../create-image/create-image_de.md"
+    },
+    {
+      "title": "Übung 6: Operator WebLogic für Oracle Kubernetes-Cluster (OKE) bereitstellen",
+      "filename": "../../deploy-operator/deploy-operator_de.md"
+    },
+    {
+      "title": "Übung 7: Domain WebLogic für Oracle Kubernetes-Cluster (OKE) bereitstellen",
+      "filename": "../../deploy-domain/deploy-domain_de.md"
+    },
+    {
+      "title": "Übung 8: Ingress-Controller für Oracle Kubernetes-Cluster (OKE) bereitstellen",
+      "filename": "../../deploy-ingress/deploy-ingress_de.md"
+    },
+    {
+      "title": "Übung 9: Anwendungs-Deployment testen",
+      "filename": "../../access-application/access-application_de.md"
+    },
+    {
+      "title": "Übung 10: WebLogic-Cluster skalieren (optional)",
+      "filename": "../../scale-cluster/scale-cluster_de.md"
+    },
+    {
+      "title": "Übung 11: Upgrade in WebLogic Server-Version durchführen (optional)",
+      "filename": "../../upgrade-version/upgrade-version_de.md"
+    },
+    {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    }
+  ]
+}
