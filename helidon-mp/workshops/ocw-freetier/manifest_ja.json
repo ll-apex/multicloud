@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Helidon MPを使用した初めてのMicroProfileアプリケーション",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "事前設定",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ja.md"
+        },
+        {
+            "title": "演習1: Project Starterを使用したHelidon MPプロジェクトの生成",
+            "filename": "../../generate-project/generate-project_ja.md"
+        },
+        {
+            "title": "演習2: Helidon MPアプリケーションGraalVMネイティブ・イメージの作成",
+            "filename": "../../create-native-image/create-native-image_ja.md"
+        },
+        {
+            "title": "演習3: カスタム・エンドポイントを追加してアプリケーションを変更する",
+            "filename": "../../modify-application/modify-application_ja.md"
+        },
+        {
+            "title": "演習4: Oracle Cloud Container RegistryへのHelidon Application dockerイメージの構築およびプッシュ",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_ja.md"
+        },
+        {
+            "title": "演習5: コンピュート・インスタンスでのHelidonアプリケーション・イメージの実行",
+            "filename": "../../create-compute-instance/create-compute-instance_ja.md"
+        },
+        {
+          "title": "Oracle CloudWorld 2022 - ヘルプの入手",
+          "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+          "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+        }
+   ]
+}
