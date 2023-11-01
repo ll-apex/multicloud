@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "使用 OCI DevOps 服务的 Helidon 微服务应用开发生命周期",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "简介",
+            "type": "freetier",
+            "filename": "../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "先备条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：基础设施的提供",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_zh-CN.md"
+        },
+        {
+            "title": "实验室 2：生成 Helidon MP 应用程序",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_zh-CN.md"
+        },
+        {
+            "title": "实验 3：浏览日志和度量浏览器",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_zh-CN.md"
+        },
+        {
+            "title": "练习 4：模拟补丁程序方案",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_zh-CN.md"
+        },
+		{
+            "title": "实验室 5：修改 Helidon 应用以添加对象存储支持",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_zh-CN.md"
+        },
+		{
+            "title": "实验室 6：清除 OCI 资源（可选）",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        },
+        {
+            "title": "Oracle CloudWorld 2023 - 获取帮助",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_zh-CN.md"
+        }
+   ]
+}
