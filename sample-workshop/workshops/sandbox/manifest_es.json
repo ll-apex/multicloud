@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "El título del taller se define en el manifiesto",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "variables": ["../../variables/variables.json",
+        "../../variables/variables-in-another-file.json"],
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Requisitos para LiveLabs (arrendamientos propiedad de Oracle). El título de la práctica de laboratorio y el título del menú Contents (el título anterior) coinciden con Prerequisite lab. Este laboratorio siempre es lo primero.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Aprovisionamiento de una instancia",
+            "description": "Los laboratorios que siguen a la introducción están numerados, empezando por el laboratorio 1",
+            "filename": "../../provision/provision_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Configuración del entorno",
+            "filename": "../../setup/setup_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Carga de datos en una instancia",
+            "filename": "../../data-load/data-load_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Consulta de datos",
+            "filename": "../../query/query_es.md"
+        },
+        {
+            "title": "Laboratorio 6: Variables en LiveLabs",
+            "filename": "../../variables/variables_es.md"
+        },
+        {
+            "title": "Laboratorio 5: Tablas en LiveLabs",
+            "filename": "../../tables/tables_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+        }
+    ]
+}
