@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "使用 Verrazzano 將 Springboot 應用程式部署至 OKE",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：在 Oracle Cloud Infrastructure 上設定 Oracle Kubernetes 引擎執行處理",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：建置 Springboot 應用系統映像檔並推送至 Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_zh-TW.md"
+        },
+        {
+            "title": "Lab 3：安裝 Verrazzano",
+            "filename": "../../install-verrazzano/install-verrazzano_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：在 Verrazzano 上部署 Springboot 應用程式",
+            "filename": "../../deploy-app-on-verrazzano/deploy-app-on-verrazzano_zh-TW.md"
+        },
+		    {
+            "title": "實驗室 5：使用 Verrazzano 存取及監控應用程式",
+            "filename": "../../access-verrazzano/access-verrazzano_zh-TW.md"
+        },
+        {
+          "title": "需要協助嗎？",
+          "description": "接收即時說明常見問題的解決方案和指示",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+   ]
+}
