@@ -1,0 +1,56 @@
+{
+    "workshoptitle": "OCI DevOpsサービスによるHelidon Microserviceアプリケーション開発のライフサイクル",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "概要",
+            "type": "freetier",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "事前設定",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/event-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: インフラストラクチャの提供",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_ja.md"
+        },
+        {
+            "title": "演習2: Helidon MPアプリケーションの生成",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_ja.md"
+        },
+        {
+            "title": "演習3: ログおよびメトリック・エクスプローラの確認",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_ja.md"
+        },
+        {
+            "title": "演習4: パッチ・シナリオのシミュレート",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_ja.md"
+        },
+		{
+            "title": "演習5: オブジェクト・ストレージ・サポートを追加するためのHelidonアプリケーションの変更",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_ja.md"
+        },
+		{
+            "title": "演習6: OCIリソースのクリーンアップ(オプション)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        },
+        {
+            "title": "Oracle CloudWorld 2023 - ヘルプの入手",
+            "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/support/ocwsupportlab/ocwsupportlab_ja.md"
+        }
+   ]
+}
