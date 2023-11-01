@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "WebLogic Kubernetes 툴킷 UI를 통해 OKE용 WebLogic에 WebLogic 애플리케이션 배포",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "소개",
+      "description": "WebLogic Kubernetes 툴킷을 사용하여 애플리케이션을 OCI로 마이그레이션",
+      "filename": "../../introduction/introduction_ko.md"
+    },
+    {
+      "title": "시작하기",
+      "description": "무료 체험판 및 유료 테넌시와 상시 무료 계정(해당되는 경우)을 사용하는 고객의 필요 조건입니다. 연습 제목과 목차 메뉴 제목(위 제목)이 선수 과정 연습과 일치합니다. 이 랩은 항상 최우선입니다.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+    },
+    {
+      "title": "실습 1: 설정 준비",
+      "description": "ORM 스택을 다운로드하고 기존 VCN에 대한 보안 규칙을 업데이트하는 방법",
+      "filename": "../../prepare-setup/prepare-setup_ko.md"
+    },
+    {
+      "title": "실습 2: 환경 설정",
+      "description": "워크샵 환경을 프로비저닝하고 연결하는 방법",
+      "filename": "../../remote-desktop/remote-desktop_ko.md"
+    },
+    {
+      "title": "실습 3: 리소스 설정",
+      "filename": "../../create-environment/create-environment_ko.md"
+    },
+    {
+      "title": "실습 4: WKT UI 프로젝트 수정 및 모델 파일 생성",
+      "filename": "../../create-model/create-model_ko.md"
+    },
+    {
+      "title": "실습 5: 보조 이미지 생성 및 Oracle Container Image Registry로 푸시",
+      "filename": "../../create-image/create-image_ko.md"
+    },
+    {
+      "title": "실습 6: Oracle Kubernetes Cluster(OKE)에 WebLogic Operator 배포",
+      "filename": "../../deploy-operator/deploy-operator_ko.md"
+    },
+    {
+      "title": "실습 7: Oracle Kubernetes 클러스터(OKE)에 WebLogic 도메인 배포",
+      "filename": "../../deploy-domain/deploy-domain_ko.md"
+    },
+    {
+      "title": "실습 8: Oracle Kubernetes 클러스터(OKE)에 수신 컨트롤러 배포",
+      "filename": "../../deploy-ingress/deploy-ingress_ko.md"
+    },
+    {
+      "title": "실습 9: 응용 프로그램 배치 테스트",
+      "filename": "../../access-application/access-application_ko.md"
+    },
+    {
+      "title": "실습 10: WebLogic 클러스터 크기 조정(선택 사항)",
+      "filename": "../../scale-cluster/scale-cluster_ko.md"
+    },
+    {
+      "title": "실습 11: WebLogic 서버 버전에서 업그레이드(선택 사항)",
+      "filename": "../../upgrade-version/upgrade-version_ko.md"
+    },
+    {
+      "title": "도움말이 필요합니까?",
+      "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+    }
+  ]
+}
