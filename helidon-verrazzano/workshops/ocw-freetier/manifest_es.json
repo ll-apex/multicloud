@@ -1,0 +1,36 @@
+{
+    "workshoptitle": "Desarrollo moderno de aplicaciones con el entorno de Kubernetes de Oracle y Verrazzano",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../intro-new/intro-new_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Requisitos",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Laboratorio 1: Configuración de una instancia de Oracle Kubernetes Engine en Oracle Cloud Infrastructure",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_es.md"
+        },
+        {
+            "title": "Laboratorio 2: Instalación de Verrazzano",
+            "filename": "../../install-verrazzano/install-verrazzano_es.md"
+        },
+        {
+            "title": "Laboratorio 3: Despliegue de la aplicación Helidon en Verrazzano",
+            "filename": "../../deploy-app-on-verrazzano-new/deploy-app-on-verrazzano-new_es.md"
+        },
+		    {
+            "title": "Laboratorio 4: Uso de Verrazzano para acceder y supervisar la aplicación",
+            "filename": "../../access-verrazzano-new/access-verrazzano-new_es.md"
+        },
+        {
+          "title": "¿Necesita Ayuda?",
+          "description": "Soluciones a problemas comunes e instrucciones para recibir ayuda en directo",
+          "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+   ]
+}
