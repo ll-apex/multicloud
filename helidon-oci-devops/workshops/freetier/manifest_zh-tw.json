@@ -1,0 +1,51 @@
+{
+    "workshoptitle": "透過 OCI DevOps 服務開發 Helidon 微服務應用程式的生命週期",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "type": "freetier",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：佈建基礎架構",
+            "type": "freetier",
+            "filename": "../../provision-infrastructure/provision-infrastructure_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：產生 Helidon MP 應用程式",
+            "type": "freetier",
+            "filename": "../../create-application/create-application_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：探索日誌和度量總管",
+            "type": "freetier",
+            "filename": "../../observability-management/observability-management_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：模擬修正程式案例",
+            "type": "freetier",
+            "filename": "../../simulate-patch/simulate-patch_zh-TW.md"
+        },
+		{
+            "title": "實驗室 5：修改物件儲存整合的 Helidon 應用程式",
+            "type": "freetier",
+            "filename": "../../os-support/os-support_zh-TW.md"
+        },
+		{
+            "title": "實驗室 6：清除 OCI 資源 (選擇性)",
+            "type": "freetier",
+            "filename": "../../cleanup-resources/cleanup-resources_zh-TW.md"
+        },
+      {
+        "title": "需要協助嗎？",
+        "description": "接收即時說明常見問題的解決方案和指示",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+      }
+   ]
+}
