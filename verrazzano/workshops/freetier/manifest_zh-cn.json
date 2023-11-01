@@ -1,0 +1,65 @@
+{
+    "workshoptitle": "Oracle Verrazzano 基础知识",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "简介",
+            "type": "freetier",
+            "filename": "../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "description": "先备条件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "实验 1：在 Oracle Cloud Infrastructure 上设置 Oracle Kubernetes 引擎实例",
+            "type": "freetier",
+            "filename": "../../setup-oke-ocishell/setup-oke-ocishell_zh-CN.md"
+        },
+        {
+            "title": "实验室 2：安装 Verrazzano",
+            "type": "freetier",
+            "filename": "../../install-verrazzano/install-verrazzano_zh-CN.md"
+        },
+        {
+            "title": "实验室 3：部署 Bobby 的 Books 示例应用程序",
+            "type": "freetier",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_zh-CN.md"
+        },
+        {
+            "title": "实验室 4：访问 Bobby 的 Books 示例应用程序 浏览 Verrazzano、Grafana 和 Kiali 控制台",
+            "type": "freetier",
+            "filename": "../../access-application/access-application_zh-CN.md"
+        },
+		{
+            "title": "练习 5：修改 Bobby 的工作簿应用程序并创建新的应用程序组件图像",
+            "type": "freetier",
+            "filename": "../../modify-helidonstock/modify-helidonstock_zh-CN.md"
+        },
+		{
+            "title": "实验室 6：将适用于 bobbys-helidon-stock-application 的 Docker 映像推送到 Oracle Cloud 容器注册表",
+            "type": "freetier",
+            "filename": "../../pushing-new-image/pushing-new-image_zh-CN.md"
+        },
+		{
+            "title": "练习 7：修改 Bobby 的工作簿配置 YAML 文件",
+            "type": "freetier",
+            "filename": "../../modify-yaml-config/modify-yaml-config_zh-CN.md"
+        },
+	    {
+            "title": "实验室 5-7：使用简化解决方案进行更改",
+            "filename": "../../alternate-version/alternate-version_zh-CN.md"
+        },
+		{
+            "title": "实验 8：通过应用程序访问和 Curated 堆栈验证更改",
+            "type": "freetier",
+            "filename": "../../verify-changes/verify-changes_zh-CN.md"
+        },
+      {
+        "title": "需要帮助？",
+        "description": "用于接收实时帮助的常见问题和方向的解决方案",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+      }
+   ]
+}
