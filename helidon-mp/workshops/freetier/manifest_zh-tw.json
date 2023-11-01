@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "我的第一個 MicroProfile 應用程式與 Helidon MP",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "開始使用",
+            "description": "先決條件",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：透過專案入門產生 Helidon MP 專案",
+            "filename": "../../generate-project/generate-project_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：建立 Helidon MP 應用程式 GraalVM 原生影像",
+            "filename": "../../create-native-image/create-native-image_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：新增自訂端點以修改應用程式",
+            "filename": "../../modify-application/modify-application_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：建立 Helidon 應用程式碼頭映像檔並推送至 Oracle Cloud Container Registry",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：在運算執行處理上執行 Helidon 應用系統映像檔",
+            "filename": "../../create-compute-instance/create-compute-instance_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+          }
+   ]
+}
