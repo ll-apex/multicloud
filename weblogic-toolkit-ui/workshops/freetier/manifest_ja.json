@@ -1,0 +1,67 @@
+{
+  "workshoptitle": "WebLogic Kubernetes ToolKit UIを使用したWebLogicアプリケーションのOKEへの移動",
+  "help": "livelabs-help-weblogic_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "WebLogic Kubernetes ToolkitによるOCIへのアプリケーションの移行",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "開始",
+      "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(上のタイトル)は、前提条件ラボと一致します。この研究室はいつも先です。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+    },
+    {
+      "title": "演習1: 設定の準備",
+      "description": "ORMスタックをダウンロードし、既存のVCNのセキュリティ・ルールを更新する方法",
+      "filename": "../../prepare-setup/prepare-setup_ja.md"
+    },
+    {
+      "title": "演習2: 環境設定",
+      "description": "ワークショップ環境をプロビジョニングして接続する方法",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md"
+    },
+    {
+      "title": "演習3: リソースの設定",
+      "filename": "../../create-environment/create-environment_ja.md"
+    },
+    {
+      "title": "演習4: WKT UIプロジェクトの変更とモデル・ファイルの作成",
+      "filename": "../../create-model/create-model_ja.md"
+    },
+    {
+      "title": "演習5: 補助イメージの作成およびOracle Container Image Registryへのプッシュ",
+      "filename": "../../create-image/create-image_ja.md"
+    },
+    {
+      "title": "演習6: WebLogicオペレータのOracle Kubernetesクラスタへのデプロイ(OKE)",
+      "filename": "../../deploy-operator/deploy-operator_ja.md"
+    },
+    {
+      "title": "演習7: WebLogicドメインのOracle Kubernetesクラスタ(OKE)へのデプロイ",
+      "filename": "../../deploy-domain/deploy-domain_ja.md"
+    },
+    {
+      "title": "演習8: Oracle Kubernetesクラスタ(OKE)へのイングレス・コントローラのデプロイ",
+      "filename": "../../deploy-ingress/deploy-ingress_ja.md"
+    },
+    {
+      "title": "演習9: アプリケーション・デプロイメントのテスト",
+      "filename": "../../access-application/access-application_ja.md"
+    },
+    {
+      "title": "演習10: WebLogicクラスタのスケーリング(オプション)",
+      "filename": "../../scale-cluster/scale-cluster_ja.md"
+    },
+    {
+      "title": "演習11: WebLogicサーバー・バージョンでのアップグレード(オプション)",
+      "filename": "../../upgrade-version/upgrade-version_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    }
+  ]
+}
