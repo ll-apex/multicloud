@@ -1,0 +1,64 @@
+{
+    "workshoptitle": "Oracle Verrazzano - Grundlagen",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Mandanten im Besitz von Oracle). Der Titel der Übung und der Titel des Inhaltsmenüs (obener Titel) stimmen mit dem Titel der erforderlichen Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Einführung",
+            "type": "livelabs",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Übung 1: Kubectl für den Zugriff auf eine Oracle Kubernetes Engine-Instanz in Oracle Cloud Infrastructure konfigurieren",
+            "filename": "../../configure-oke-ocishell/configure-oke-ocishell_de.md"
+        },
+        {
+            "title": "Übung 2: Verrazzano installieren",
+            "type": "livelabs",
+            "filename": "../../install-verrazzano/install-verrazzano_de.md"
+        },
+        {
+            "title": "Übung 3: Beispielanwendung für Bobby's Books bereitstellen",
+            "type": "livelabs",
+            "filename": "../../deploy-bobsbook/deploy-bobsbook_de.md"
+        },
+        {
+            "title": "Übung 4: Beispielanwendung \"Bobby's Books\" aufrufen Verrazzano, Grafana und Kiali Console erkunden",
+            "type": "livelabs",
+            "filename": "../../access-application/access-application_de.md"
+        },
+		{
+            "title": "Übung 5: Anwendungskomponente ändern und neues Image erstellen",
+            "type": "livelabs",
+            "filename": "../../modify-helidonstock/modify-helidonstock_de.md"
+        },
+		{
+            "title": "Übung 6: Neues Komponentenimage in Oracle Cloud Container Registry pushen",
+            "type": "livelabs",
+            "filename": "../../pushing-new-image/pushing-new-image_de.md"
+        },
+		{
+            "title": "Übung 7: Anwendungskonfigurationsdatei ändern, um geänderte Komponente erneut bereitzustellen",
+            "type": "livelabs",
+            "filename": "../../modify-yaml-config/modify-yaml-config_de.md"
+        },
+	    {
+            "title": "Übung 7 zu Lektion 5: Alternative VERSION mit vereinfachter Lösung",
+            "filename": "../../alternate-version/alternate-version_de.md"
+        },
+		{
+            "title": "Übung 8: Prüfen der Änderungen durch Anwendungszugriff und kuratierten Stack",
+            "type": "livelabs",
+            "filename": "../../verify-changes/verify-changes_de.md"
+        },
+      {
+        "title": "Brauchen Sie Hilfe?",
+        "description": "Lösungen für häufige Probleme und Anweisungen für den Erhalt von Live-Hilfe",
+        "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+      }
+   ]
+}
