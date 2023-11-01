@@ -1,0 +1,40 @@
+{
+    "workshoptitle": "Helidon MP를 사용한 첫 번째 MicroProfile 애플리케이션",
+    "help": "livelabs-help-weblogic_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "소개",
+            "filename": "../../intro/intro_ko.md"
+        },
+        {
+            "title": "시작하기",
+            "description": "필요 조건",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login_ko.md"
+        },
+        {
+            "title": "실습 1: Project Starter를 통해 Helidon MP 프로젝트 생성",
+            "filename": "../../generate-project/generate-project_ko.md"
+        },
+        {
+            "title": "실습 2: Helidon MP 애플리케이션 GraalVM 네이티브 이미지 생성",
+            "filename": "../../create-native-image/create-native-image_ko.md"
+        },
+        {
+            "title": "실습 3: 커스텀 Endpoint를 추가하여 응용 프로그램 수정",
+            "filename": "../../modify-application/modify-application_ko.md"
+        },
+        {
+            "title": "실습 4: Helidon Application 도커 이미지를 빌드하여 Oracle Cloud Container Registry로 푸시",
+            "filename": "../../build-and-push-app-image/build-and-push-app-image_ko.md"
+        },
+        {
+            "title": "실습 5: 컴퓨트 인스턴스에서 Helidon 애플리케이션 이미지 실행",
+            "filename": "../../create-compute-instance/create-compute-instance_ko.md"
+        },
+        {
+            "title": "도움말이 필요합니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+          }
+   ]
+}
